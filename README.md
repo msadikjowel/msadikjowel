@@ -1,4 +1,5 @@
-# Hi there, I'm Sadik 👋
+<h1 align="center"> Hi there, I'm Sadik 👋 </h1>
+<h4 align="center">Trainer | Web Developer | Video Editor</h4>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=msadikjowel&show_icons=true&theme=dark" />
 
