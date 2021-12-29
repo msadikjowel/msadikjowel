@@ -4,6 +4,18 @@
 <h3 align="center">Instructor | Web Developer | Video Editor</h3>
 </br>
 
+## 🙋‍♂️ About Me:
+
+- 🔭 I’m currently working on **Full Stack Development**
+
+- 🌱 I’m currently learning **Google Chrome Extension Development**
+
+- 📫 How to reach me **msadikjowel@gmail.com**
+
+- ⚡ Fun facts, **Love to coding | read books | playing video games in leisure time.**
+
+<br/>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
