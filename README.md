@@ -82,8 +82,6 @@
 
 </p>
 
-<!-- ## ❤ Views and Followers
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=msadikjowel">
-</a>
-<a href="https://github.com/msadikjowel?tab=followers"><img src="https://img.shields.io/github/followers/msadikjowel?label=Followers&style=social" alt="GitHub Badge"></a> -->
+![](https://komarev.com/ghpvc/?username=msadikjowel&color=2ecc71)
+
+<!-- <a href="https://github.com/msadikjowel?tab=followers"><img src="https://img.shields.io/github/followers/msadikjowel?label=Followers&style=social" alt="GitHub Badge"></a> -->
