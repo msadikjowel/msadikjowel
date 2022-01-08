@@ -14,6 +14,8 @@
 
 - ⚡ Fun facts, **Love to coding | read books | playing video games in leisure time.**
 
+- 📫 Visit my portfolio **https://msadikjowel.netlify.app/**
+
 <br/>
 
 ## 🚀 Languages and Tools:
