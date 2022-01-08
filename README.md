@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **msadikjowel@gmail.com**
 
-- ⚡ Fun facts, **Love to coding | read books | playing video games in leisure time.**
+- ⚡ Fun facts, **Love to coding | reading books | playing video games in leisure time.**
 
 - 📫 Visit my portfolio **https://msadikjowel.netlify.app/**
 
