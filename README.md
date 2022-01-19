@@ -16,6 +16,8 @@
 
 - 📫 Visit my portfolio **https://msadikjowel.netlify.app/**
 
+- 🌱 Visit my cool CSS design for developers **https://msadikjowel.github.io/css-card/**
+
 <br/>
 
 ## 🚀 Languages and Tools:
