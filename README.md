@@ -8,7 +8,7 @@
 
 - 🔭 I’m skilled at **Full Stack Development**
 
-- 🌱 I’m currently learning **Google Chrome Extension Development**
+- 🌱 I’m currently learning **Mobile App development with React Native**
 
 - 📫 How to reach me **msadikjowel@gmail.com**
 
