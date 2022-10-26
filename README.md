@@ -1,7 +1,7 @@
 <a target="_blank" href="https://msadikjowel.netlify.app/"><img width="100%" height="auto" src="https://pbs.twimg.com/profile_banners/939767446642159617/1634713980/1500x500" height="175px"/></a>
 
 <h1 align="center">Hi there, I'm Sadik </h1>
-<h3 align="center">Instructor | Web Developer | Video Editor</h3>
+<h3 align="center">Instructor | Web Developer & App Developer</h3>
 </br>
 
 ## 🙋‍♂️ About Me:
