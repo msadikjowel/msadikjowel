@@ -10,13 +10,11 @@
 
 - 🌱 I’m currently learning **Mobile App development with React Native**
 
-- 📫 How to reach me **msadikjowel@gmail.com**
+- 📫 How to reach me **hello@sadik.tech**
 
 - ⚡ Fun facts, **Love to coding | reading books | playing video games in leisure time.**
 
 - 📫 Visit my portfolio **https://www.sadik.tech/**
-
-- 🌱 Visit my cool CSS design for developers **https://msadikjowel.github.io/css-card/**
 
 <br/>
 
