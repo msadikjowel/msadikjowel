@@ -12,7 +12,7 @@
 
 - ⚡ Fun facts, **Love to coding | reading books | playing video games in leisure time.**
 
-- 📫 Visit my portfolio **https://msadikjowel.netlify.app**
+- 📫 Visit my portfolio **https://msadikjowel.vercel.app**
 
 <br/>
 
