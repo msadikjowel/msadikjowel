@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I'm Sadik </h1>
-<h3 align="center">Teacher | Fullstack App & Web Developer | Traveler</h3>
+<h3 align="center">Teacher | Fullstack App & Web Engineer | Traveler</h3>
 </br>
 
 ## 🙋‍♂️ About Me:
 
 - 🔭 I’m skilled at **Full Stack Development**
 
-- 🌱 I’m currently learning **Mobile App development with React Native**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 📫 How to reach me **sadikd3v@gmail.com**
 
